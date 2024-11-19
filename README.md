@@ -20,10 +20,10 @@ Together, we aim to make the development process smoother and help each other gr
 ## 📌 How to Contribute  
 
 1. **Open a Discussion**  
-   Share your ideas or ask for advice in the [Discussions](https://github.com/your-repo/community/discussions) tab.  
+   Share your ideas or ask for advice in the [Discussions](https://github.com/wiremodel/community/discussions) tab.  
 
 2. **Report Issues**  
-   If you encounter a problem or have suggestions for improvement, log it in the [Issues](https://github.com/your-repo/community/issues) tab.  
+   If you encounter a problem or have suggestions for improvement, log it in the [Issues](https://github.com/wiremodel/community/issues) tab.  
 
 3. **Submit Pull Requests**  
    Contribute directly to the repository by submitting a PR with your code examples or fixes.  
